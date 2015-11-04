@@ -5,8 +5,8 @@
 2. Agrega el archivo calculator.pp.c
 
 3. En el assembler
-	Ln 23 `call add_numbers`
-	Ln 29 `call printf`
+-Ln 23 `call add_numbers`
+-Ln 29 `call printf`
 
 4. `T add_numbers`
 `T main`
