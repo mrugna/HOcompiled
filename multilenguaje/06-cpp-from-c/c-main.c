@@ -1,6 +1,6 @@
 
 #include <stdio.h>
-#include "c-sum.h"
+#include "cpp-sum.h"
 
 #define NUM 200
 
